@@ -1,0 +1,15 @@
+{
+  "name": "contacts-microservices",
+  "version": "1.0.0",
+  "description": "contacts microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "contact Management microservices"
+  },
+  "author": "Muneer Ahamed Shaik",
+  "license": "ISC"
+}

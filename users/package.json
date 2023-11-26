@@ -1,0 +1,15 @@
+{
+  "name": "user-microservices",
+  "version": "1.0.0",
+  "description": "user microservicrs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "contact Mangement microservices"
+  },
+  "author": "Muneer Ahamed Shaik",
+  "license": "ISC"
+}
